@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wolke-sieben/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Wolke sieben](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wolke-sieben/) |
+| **Get License** | [Get License For Wolke sieben](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wolke-sieben/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `961ab2c57bbc02d93277f86d880a2836b45177f3dfc65da1d279e23b1b1394ef` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
