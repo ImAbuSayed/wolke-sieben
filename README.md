@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wolke-sieben/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Wolke sieben](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wolke-sieben/) |
+| **Get License** | [Obtain a Music License for Wolke sieben](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wolke-sieben/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Steig in den Benz, wir fliegen hoch auf Wolke sieben,
+> Midnight Vibes, doch deine Augen leuchten mehr.
+> Zu viel Bass im Blut, wir können nichts verschieben,
+> Komm an mein Herz, ich geb dich niemals wieder her.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
